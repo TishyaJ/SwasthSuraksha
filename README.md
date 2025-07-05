@@ -1,2 +1,2 @@
-# SwasthSuraksha
-This repository is dedicated to SwasthSuraksha project which intends to be a major helping hand regading medical assistance to  uneducated and accessibility to special people of India, using modern technologies of the current world. The system which understands the user!
+# SwasthSuraksha  
+This repository is dedicated to the SwasthSuraksha project, which aims to provide vital medical assistance to the underprivileged, including individuals with limited education and accessibility challenges in India. Leveraging modern technologies, SwasthSuraksha aspires to build a system that truly understands and supports its users.

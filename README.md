@@ -1,2 +1,4 @@
 # SwasthSuraksha  
-This repository is dedicated to the SwasthSuraksha project, which aims to provide vital medical assistance to the underprivileged, including individuals with limited education and accessibility challenges in India. Leveraging modern technologies, SwasthSuraksha aspires to build a system that truly understands and supports its users.
+SwasthSuraksha is a technology-driven initiative aimed at bridging the healthcare accessibility gap in India. This project focuses on providing medical assistance to individuals with limited education and to those with special accessibility needs. By harnessing modern technologies such as AI and voice-enabled systems, SwasthSuraksha strives to build a system that understands and interacts with users intuitively — making healthcare support more inclusive, intelligent, and accessible.
+
+
